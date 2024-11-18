@@ -139,4 +139,6 @@ Hatt was here. Thanks for showing me how to use Git. Keep up the good work :]
 
 Nikita was here! *-) Thanks for your lessons Stephen!
 
+Freddeck was here! Wish there was a free LFS solution for noob devs! Great course tho Stephen :D
+
 
